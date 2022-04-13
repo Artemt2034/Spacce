@@ -1,0 +1,144 @@
+@media(max-width:786){}
+body{
+    font-family: 'Hurricane', cursive;
+    font-family: 'Open Sans', sans-serif;
+    background-color: rgb(49, 49, 49);
+}
+.block1{
+    background-image: url(https://hotwalls.ru/wallpapers/1920x1080/otkrytyy_kosmos.jpg);
+    background-color: rgb(127, 199, 253);
+    color:rgb(255, 255, 255) ;
+    height: 15%;
+    width: 25%;
+    margin-left: 8px;
+    margin-top: 18px;
+}
+.logo{
+    background-image: url(https://hotwalls.ru/wallpapers/1920x1080/otkrytyy_kosmos.jpg);
+    padding-left: 30px;
+    padding-top: 42.5px;
+    font-size: 250%;
+}
+.header{
+    background-image: url(https://hotwalls.ru/wallpapers/1920x1080/otkrytyy_kosmos.jpg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 250%;
+    padding-left: 30px;
+}
+.menu{
+    background-image: url(https://hotwalls.ru/wallpapers/1920x1080/otkrytyy_kosmos.jpg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 250%;
+    padding-left: 285px;
+}
+.contacts{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 250%;
+    padding-left: 585px;
+}
+.block2{
+    background-image: url(https://hotwalls.ru/wallpapers/1920x1080/otkrytyy_kosmos.jpg);
+    background-color: rgb(255, 160, 71);
+    color: rgb(248, 248, 248);
+    height: 15%;
+    width: 73.35%;
+    margin-left: 500px;
+    margin-top: -7.45%;
+    display: flex;
+}
+.block3{
+    background-image: url(https://hotwalls.ru/wallpapers/1920x1080/otkrytyy_kosmos.jpg);
+    background-color: rgb(255, 118, 68);
+    width: 99.25%;
+    height: 37.5%;
+    margin-top: 18px;
+    margin-left: 8px;
+}
+.zag{
+    color: white;
+    font-size: 385%;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+.text1{
+    color: white;   
+    font-size: 250%;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+.text2{
+    color: white;   
+    font-size: 250%;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+.text3{
+    color: white;   
+    font-size: 250%;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+.block4{
+    color: aliceblue;
+    background-image: url(https://hotwalls.ru/wallpapers/1920x1080/otkrytyy_kosmos.jpg);
+    background-color: rgb(255, 212, 69);
+    width: 99%;
+    margin-left: 8px;
+    width: 32.5%;
+    height: 25%;
+    margin-top: 18px;
+    text-align: center;
+}
+.block5{
+    color: aliceblue;
+    background-image: url(https://hotwalls.ru/wallpapers/1920x1080/otkrytyy_kosmos.jpg);
+    background-color: rgb(255, 212, 69);
+    width: 99.25%;
+    margin-left: 8px;
+    width: 32.5%;
+    height: 25%;
+    margin-left: 34%;
+    margin-top: 18px;
+    margin-top: -238.5px;
+}
+.block6{
+    color: aliceblue;
+    background-image: url(https://hotwalls.ru/wallpapers/1920x1080/otkrytyy_kosmos.jpg);
+    background-color: rgb(255, 212, 69);
+    width: 99.25%;
+    margin-left: 8px;
+    width: 32.5%;
+    height: 25%;
+    margin-left: 67.5%;
+    margin-top: 18px;
+    margin-top: -238px;
+}
+.text4{
+    text-align: center;
+    font-size: 385%;
+    padding-top:80px;
+}
+.text5{
+    color: aliceblue;
+    text-align: center;
+    font-size: 385%;
+    padding-top:80px;
+}
+.text6{
+    color: aliceblue;
+    text-align: center;
+    font-size: 385%;
+    padding-top:80px;
+}
+.site{
+    color: aliceblue;
+    text-align: center;
+    font-size: 250%;
+    margin-top: 65px;
+}
